@@ -9,4 +9,14 @@ So far the developement phase of T-rex gamebot has been accomplished and soon th
 - Genetic Algorithm
 
 
+## Tools Required 
+- Gamebot 
+
+paint.net
+a video editor (for speed detection and correction)
+http://www.trex-game.skipser.com/  (Remember! This does not support night mode)
+
+- AI
+
+
 If you wish to know more about the author and discuss regarding the same ping me [here](https://twitter.com/shivank1995)
